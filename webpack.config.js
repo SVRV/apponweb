@@ -9,6 +9,14 @@ module.exports = {
   watchOptions: {
     aggregateTimeout: 100
   },
-
+  module: {
+    loaders: [
+      {
+        test: /\.js$/,
+        exclude: [/node_modules/],
+        include: [/node_modules\/jquery/], [/node_modules\/ol/],
+      }
+    ]
+  },
   devtool: "eval"
 }
