@@ -4,12 +4,9 @@
   "private": true,
   "description": "Author's Personal Experience",
   "scripts": {
-    "build": "webpack --config webpack.config.js"
-  },
-  "main": "main.js",
-  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "main": "main.js",
   "keywords": [],
   "author": "Taras Dubrava",
   "license": "MIT",
@@ -21,7 +18,7 @@
     "ol": "^4.6.4"
   },
   "repository": {
-   "type": "git",
-   "url": "git://github.com/SVRV/apponweb.git"
+    "type": "git",
+    "url": "git://github.com/SVRV/apponweb.git"
   }
 }

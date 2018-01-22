@@ -1,4 +1,4 @@
-# Author's Personal Experience
+# Author's Personal Experience map
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ npm install npm@latest -g
 
 * Install [webpack](https://webpack.js.org/guides/installation/)
 ```
-npm install --save-dev webpack
+npm install --global webpack
 ```
 
 * Install [jquery](http://jquery.com/download/)
@@ -33,6 +33,15 @@ npm install jquery
 * Install [OpenLayers](https://www.npmjs.com/package/openlayers/tutorial)
 ```
 npm install openlayers
+```
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Install through the npm
+
+```
+npm install
 ```
 
 ## Built With
