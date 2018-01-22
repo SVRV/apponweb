@@ -20,5 +20,8 @@
     "jquery": "^3.3.1",
     "ol": "^4.6.4"
   },
-
+  "repository": {
+   "type": "git",
+   "url": "git://github.com/SVRV/apponweb.git"
+  }
 }
