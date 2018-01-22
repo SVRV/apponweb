@@ -1,0 +1,28 @@
+@media (max-width: 900px) {
+  .post-content {
+    visibility: hidden;
+  };
+}
+
+@media (max-height: 400px) {
+  .post-content {
+    visibility: hidden;
+  };
+}
+
+.post-content {
+  top:5%;
+  left:5%;
+  position: absolute;
+  background: rgba(255, 255, 204, 0.3);
+  width: 27%;
+  padding-left: 10px;
+}
+
+body {
+  background-color: #993300;
+}
+
+#map {
+  position: relative;
+}

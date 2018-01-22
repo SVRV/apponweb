@@ -1,0 +1,24 @@
+{
+  "name": "apponweb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Author's Personal Experience",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Taras Dubrava",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "ol": "^4.6.4"
+  },
+
+}
