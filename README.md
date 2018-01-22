@@ -1,6 +1,4 @@
-# Project Title
-
-Author's Personal Experience
+# Author's Personal Experience
 
 ## Getting Started
 
